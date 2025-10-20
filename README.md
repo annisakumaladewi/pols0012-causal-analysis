@@ -1,2 +1,2 @@
 # pols0012-causal-analysis
-Year 3 Causal Analysis Modules
+Year 3 Causal Analysis Module
