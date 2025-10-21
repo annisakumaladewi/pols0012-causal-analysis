@@ -41,7 +41,6 @@ It received a **First Class grade**, reflecting:
 |---------|--------------|
 | `part1_coding-questions/` | R Markdown reports, replication data, and outputs for quantitative analysis |
 | `part2_research-design/` | Written research design essay and supporting materials |
-| `materials/` *(optional)* | Background materials such as the official question paper (not included publicly) |
 
 ---
 
