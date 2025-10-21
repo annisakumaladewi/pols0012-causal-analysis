@@ -9,6 +9,13 @@ The project is divided into two sections:
 
 I have included **metadata for each question** to help viewers understand the datasets, variable definitions, and structure used in my analysis.
 
+## Full Report
+[Part 1 - Causal Analysis (PDF)](report/part1_report.pdf)
+
+## Code
+[Part 1 Question A RMarkdown (PDF)](code/q1.pdf)
+[Part 1 Question B RMarkdown (PDF)](code/q2.pdf)
+
 ## Metadata
 
 ### Section 1 — Nunn (2008) replication dataset
