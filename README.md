@@ -1,4 +1,4 @@
-# POLS0012 — Causal Analysis (Year 2)
+# POLS0012 — Causal Analysis (Year 3)
 
 This repository contains my work for the **POLS0012: Causal Analysis** module.  
 The module develops practical and conceptual understanding of **causal inference**, combining applied R coding exercises with original research design.
